@@ -51,15 +51,15 @@
         <td>STTNF</td>
     </tr>
     <tr>
-        <td>2006-2009</td>
+        <td>2019-2021</td>
         <td>SMK Informatika dan Telekomunikasi Bogor</td>
     </tr>
     <tr>
-        <td>2003-2006</td>
+        <td>2015-2019</td>
         <td>SMP Ibnu A'qil Bogor</td>
     </tr>
     <tr>
-        <td>1997-2003</td>
+        <td>2009-2015</td>
         <td>SD Negeri Margajaya 1</td>
     </tr>
 </table>
