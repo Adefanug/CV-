@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+ <head> 
+  <title> CV adetiya fajar nugraha TI15 </title> 
+ </head> 
+ <body style="background-color: blue"> 
+  <h1 style="text-align: center;"> <a style="font-size: larger;add_size"> </a><a style="color: white;">Curiculum Vitae</a> </h1> 
+  <img src="ya.jpg" style="align right"> 
+  <hr size="2" width="1000" style="align;center" color="white"> 
+  <p></p> 
+  <h2> <b style="color: white;">BIODATA PRIBADI</b> </h2> 
+  <ul> 
+   <li><b style="color: white;">Nama lengkap : </b> <a style="color: white;"> Adetiya Fajar Nugraha</a></li> 
+   <li><b style="color: white;">Tempat tanggal lahir : </b> <a style="color: white;"> Bogor, 01 januari 2003</a></li> 
+   <li><b style="color: white;">Alamat : </b> <a style="color: white;"> Cibeureum Neglasari RT 03 RW 01</a></li> 
+   <li><b style="color: white;">Status : </b> <a style="color: white;"> Mahasiswa</a></li> 
+   <li><b style="color: white;">Email : </b> <a href="aditeditor12@gmail.com"> <i style="color: white;"> aditeditor12@gmail.com</i></a> </li> 
+  </ul> 
+  <h2> <b style="color: white;">BIODATA PENDIDIKAN</b> </h2> 
+  <ul> 
+   <li><b style="color: white;">SDN Margajaya 01 </b></li> 
+   <li><b style="color: white;">SMP Ibn'Aqil </b></li> 
+   <li><b style="color: white;">SMK Informatika dan Telekomunikasi </b></li> 
+  </ul> 
+  <h2> <b style="color: white;">KEAHLIAN YANG DIMILIKI</b> </h2> 
+  <ul> 
+   <li><b style="color: white;">Mengoperasikan Komputer : </b> <a style="color: white;"> Microsoft Office</a></li> 
+   <li><b style="color: white;">karate : </b> <a style="color: white;"> Karate</a></li> 
+  </ul> 
+ </body>
+</html>
