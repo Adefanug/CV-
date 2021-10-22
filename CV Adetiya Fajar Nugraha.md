@@ -10,7 +10,6 @@
     <tr>
         <td>Nama</td>
         <td>Adetiya Fajar Nugraha</td>
-        <td rowspan=8><img src =”yoga.png”></td>
     </tr>
     <tr>
         <td>Jenis Kelamin</td>
@@ -22,7 +21,7 @@
     </tr>
     <tr>
         <td>Berat / Tinggi Badan</td>
-        <td>55kg / 166cm</td>
+        <td>55kg / 168cm</td>
     </tr>
     <tr>
         <td>Alamat</td>
@@ -67,6 +66,7 @@
 <hr color=”red” size=5>
 <pre>
     <li><font size=4 face =arial>(Microsoft word))</font></li></font></li>
+    <Li><font size=4 face =arial>(karate))</font></li></font></li>
 </pre>
 <br>
 <br>
